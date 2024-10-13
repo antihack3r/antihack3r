@@ -1,5 +1,5 @@
 ## antihack3r <img src="https://komarev.com/ghpvc/?username=rusnuker&color=420420" alt="profile view counter" title="profile view counter"/> <img height=20 src="http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-2.png" alt="wtfpl license badge" title="wtfpl license badge"/>
-minecraft sex porn
+being free since 1999 #fucklicensing #nobodydeservescredit #yoink
 
 <img height="35" src="https://github.com/rusnuker/rusnuker/assets/49472785/3ae21cac-d682-4227-ac90-e4526ffd2e1f" alt="kaspersky approved" title="kaspersky approved"/>
 

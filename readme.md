@@ -11,6 +11,7 @@
 <img src="https://raw.githubusercontent.com/antihack3r/antihack3r/refs/heads/main/thicc.gif">
 <img width=88 height=31 src="http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-2.png">
 <a href="https://free-website-hit-counter.com/"><img width=88 height=31 src='https://www.free-website-hit-counter.com/zc.php?d=9&id=2842&s=17'></a>
+<a href="https://cucking.men"><img src="https://raw.githubusercontent.com/antihack3r/antihack3r/refs/heads/main/cuckingmen.gif"></a>
 </div>
 
 [funny cat pictures](http://funny-cats.ru/)<br>

@@ -2,7 +2,7 @@
 <a href="https://java.com/"><img src="https://raw.githubusercontent.com/antihack3r/antihack3r/refs/heads/main/java_green_button.gif" border=10></a>
 <a href="https://en.wikipedia.org/wiki/Work_(human_activity)"><img src="https://raw.githubusercontent.com/antihack3r/antihack3r/refs/heads/main/nft.gif"></a>
 <img src="https://raw.githubusercontent.com/antihack3r/antihack3r/refs/heads/main/happy2006.gif">
-<img src="https://raw.githubusercontent.com/antihack3r/antihack3r/refs/heads/main/sucks.gif">
+<img width=88 height=31 src="https://raw.githubusercontent.com/antihack3r/antihack3r/refs/heads/main/sucks.gif">
 <img src="https://raw.githubusercontent.com/antihack3r/antihack3r/refs/heads/main/thevoid.gif">
 <img src="https://raw.githubusercontent.com/antihack3r/antihack3r/refs/heads/main/typhrakromer.gif">
 <img src="https://raw.githubusercontent.com/antihack3r/antihack3r/refs/heads/main/video_game_cheats_tips_hints_codes.gif">

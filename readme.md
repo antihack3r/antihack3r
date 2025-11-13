@@ -9,10 +9,8 @@
 <img src="https://raw.githubusercontent.com/antihack3r/antihack3r/refs/heads/main/besteyes3.gif">
 <a href="https://minecraft.wiki/"><img src="https://raw.githubusercontent.com/antihack3r/antihack3r/refs/heads/main/minecraft.gif"></a>
 <img src="https://raw.githubusercontent.com/antihack3r/antihack3r/refs/heads/main/thicc.gif">
-<img width=88 height=31 src="http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-2.png">
 <!-- <a href="https://free-website-hit-counter.com/"><img width=88 height=31 src='https://www.free-website-hit-counter.com/zc.php?d=9&id=2842&s=17'></a> rip -->
 <a href="https://cucking.men"><img src="https://raw.githubusercontent.com/antihack3r/antihack3r/refs/heads/main/cuckingmen.gif"></a>
 </div>
 
-[funny cat pictures](http://funny-cats.ru/)<br>
-[R.I.P. Kevin "Condor" Mitnick - 1963-2023](https://www.washingtonpost.com/obituaries/2023/07/20/kevin-mitnick-hacker-dies/)
+![](https://komarev.com/ghpvc/?username=antihack3r)

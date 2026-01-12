@@ -10,7 +10,7 @@
 <a href="https://minecraft.wiki/"><img src="https://raw.githubusercontent.com/antihack3r/antihack3r/refs/heads/main/minecraft.gif"></a>
 <img src="https://raw.githubusercontent.com/antihack3r/antihack3r/refs/heads/main/thicc.gif">
 <!-- <a href="https://free-website-hit-counter.com/"><img width=88 height=31 src='https://www.free-website-hit-counter.com/zc.php?d=9&id=2842&s=17'></a> rip -->
-<a href="https://cucking.men"><img src="https://raw.githubusercontent.com/antihack3r/antihack3r/refs/heads/main/cuckingmen.gif"></a>
+<!-- <a href="https://cucking.men"><img src="https://raw.githubusercontent.com/antihack3r/antihack3r/refs/heads/main/cuckingmen.gif"></a> not no more hell no -->
 </div>
 
 ![](https://komarev.com/ghpvc/?username=antihack3r)
